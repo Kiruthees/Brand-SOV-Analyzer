@@ -38,14 +38,14 @@ Welcome to **SOVAnalyzer**, an intelligent tool designed to analyze and compare 
 ---
 
 ## 📊 **How It Works**
-# Google & YouTube Data Fetching:
+### Google & YouTube Data Fetching:
 Using SerpAPI, the tool queries Google and YouTube for the most relevant search results and videos related to a given keyword.
 
-# Keyword Generation:
+### Keyword Generation:
 Leveraging OpenAI's GPT-4 model, the tool generates related search terms, including informational, competitive, and long-tail keywords.
 
-# SoV Analysis:
+### SoV Analysis:
 The tool calculates the Share of Voice (SoV) by analyzing the number of results mentioning the brand divided by the total results. It also measures sentiment (positive vs. negative) to evaluate the brand's online presence.
 
-# Strategy Report:
+### Strategy Report:
 A final markdown report is generated that provides a comprehensive analysis of the brand's performance on Google vs. YouTube, growth opportunities, and actionable recommendations for brand improvement.
