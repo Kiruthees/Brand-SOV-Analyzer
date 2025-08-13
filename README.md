@@ -41,17 +41,14 @@ Welcome to **SOVAnalyzer**, an intelligent tool designed to analyze and compare 
 - **Keyword Brainstorming** - Generate a list of high-value SEO-related keywords for a given seed term and brand.
     ```bash
     keyword_list = brainstorm_keywords("seed_term", "brand_name")
-    
 - **Analyzing Brand's SoV & Sentiment** - Perform analysis on Google search results and YouTube video data for a specific keyword.
     ```
     analyzer = SOVAnalyzer("our_brand", competitors=["brand1", "brand2"])
     results = analyzer.process_keyword("seed_term")
-    
 - **Compiling Strategic Report** - Generate a comprehensive marketing strategy report based on multiple keyword analyses.
     ```
     report = compile_strategy_report(results, "brand_name")
     print(report)
-    
 ---
 
 ## 📊 **How It Works**
